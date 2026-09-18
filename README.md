@@ -1,16 +1,34 @@
-## Hi there 👋
+# ⚡ Hello World, I'm Mateus Cerqueira Correia!
 
-<!--
-**TeuCorreia/TeuCorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Python+%26+React+Developer;Building+Revestbem%2B" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 `whoami`
+
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Mateus Cerqueira Correia"
+        self.role = "Software Engineer | Full Stack Developer"
+        self.location = "Feira de Santana - BA, Brasil"
+        
+        self.education = {
+            "current": "Engenharia de Software — UNIFAN",
+            "completed": "Análise e Desenvolvimento de Sistemas (2 anos) — SENAI"
+        }
+        
+        self.current_focus = [
+            "Algoritmos e Estruturas de Dados Avançadas",
+            "Otimização e Lógica em Python",
+            "Validação Robust de Dados com Pydantic",
+            "Desenvolvimento Web com React e TypeScript"
+        ]
+
+    def get_mission(self):
+        return "Transformar problemas complexos em código limpo, performático e escalável."
+
+dev = SoftwareEngineer()
+print(dev.get_mission())
