@@ -1,7 +1,7 @@
-## Olá, me chamo Mateus Cerqueira Correia! 👋
+## Oiii, eu sou o Mateus Cerqueira Correia! 👋
 
 Desenvolvedor de Software focado em Python, React, TypeScript e soluções web.
-Atualmente a cursando **Engenharia de Software** na **UNIFAN** e com formação concluída em **Análise e Desenvolvimento de Sistemas** pelo **SENAI** (2 anos).
+Atualmente a cursar **Engenharia de Software** na **UNIFAN** e com formação concluída em **Análise e Desenvolvimento de Sistemas** pelo **SENAI** (2 anos).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -16,6 +16,7 @@ Atualmente a cursando **Engenharia de Software** na **UNIFAN** e com formação 
 ##
 
 <div> 
+  <a href="https://www.instagram.com/imteuzz.sz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/teucorreia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:mateuscorreia14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/TeuCorreia" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
